@@ -1,0 +1,114 @@
+﻿  Source.cpp
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(59): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(125): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(171): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(62): warning C4101: 'result': unreferenced local variable
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(189): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(194): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(210): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(262): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(287): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(289): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(291): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(293): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(295): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(297): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(299): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(305): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(318): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(326): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(334): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(344): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(365): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(381): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(400): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(402): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(404): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(406): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(408): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(410): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(416): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(429): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(437): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(445): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(455): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(357): warning C4101: 'choice': unreferenced local variable
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(556): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(568): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(650): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(747): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(758): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(776): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(778): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(780): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(793): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(812): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(814): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(816): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(737): warning C4101: 'newReorder': unreferenced local variable
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(736): warning C4101: 'newName': unreferenced local variable
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(735): warning C4101: 'newPhone': unreferenced local variable
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(853): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(903): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(904): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(905): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(919): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(920): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(921): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(942): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\bewzaazu\desktop\advancedproceduralprojectsem2\advancedproceduralprojectsem2\source.cpp(1052): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  AdvancedProceduralProjectSem2.vcxproj -> C:\Users\Bewzaazu\Desktop\AdvancedProceduralProjectSem2\Debug\AdvancedProceduralProjectSem2.exe

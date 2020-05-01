@@ -1,0 +1,71 @@
+Item No. is: 124
+Item Name is: Moon
+Item Supplier Name is: Space
+Re-order Threshold Limit is: 246
+Number of Units is: 23
+Cost per Units is: 2.36
+Last Order Date is: 20 /12 /2015
+Does this item need to be stored in a hazardous chemical store? YES
+Which Department does this stock item belong to? MAINTENANCE
+Which of the following months do items need to re-order? AUGUST
+Which of the following people need to authorise the purshase? DEPARTMENT MANAGER
+===========================================================================================
+Item No. is: 229
+Item Name is: Cake
+Item Supplier Name is: Dunnes
+Re-order Threshold Limit is: 36
+Number of Units is: 20
+Cost per Units is: 1.75
+Last Order Date is: 30 /12 /2020
+Does this item need to be stored in a hazardous chemical store? YES
+Which Department does this stock item belong to? MAINTENANCE
+Which of the following months do items need to re-order? AUGUST
+Which of the following people need to authorise the purshase? DEPARTMENT MANAGER
+===========================================================================================
+Item No. is: 125
+Item Name is: Apples
+Item Supplier Name is: Gala
+Re-order Threshold Limit is: 25
+Number of Units is: 30
+Cost per Units is: 0.50
+Last Order Date is: 29 /3 /2020
+Does this item need to be stored in a hazardous chemical store? NO
+Which Department does this stock item belong to? MAINTENANCE
+Which of the following months do items need to re-order? NO SPECIFIED MONTH
+Which of the following people need to authorise the purshase? MANAGING DIRECTOR
+===========================================================================================
+Item No. is: 123
+Item Name is: Bananas
+Item Supplier Name is: Fyffes
+Re-order Threshold Limit is: 50
+Number of Units is: 100
+Cost per Units is: 0.25
+Last Order Date is: 1 /4 /2020
+Does this item need to be stored in a hazardous chemical store? NO
+Which Department does this stock item belong to? OFFICE
+Which of the following months do items need to re-order? NO SPECIFIED MONTH
+Which of the following people need to authorise the purshase? DEPARTMENT MANAGER
+===========================================================================================
+Item No. is: 1
+Item Name is: bag
+Item Supplier Name is: Xl
+Re-order Threshold Limit is: 25
+Number of Units is: 24
+Cost per Units is: 2.60
+Last Order Date is: 20 /11 /2020
+Does this item need to be stored in a hazardous chemical store? NO
+Which Department does this stock item belong to? OFFICE
+Which of the following months do items need to re-order? AUGUST
+Which of the following people need to authorise the purshase? FINANCIAL CONTROLLER
+===========================================================================================
+
+=============================OFFICE DEPARTMENT===========================
+0.00 percent of Stock items below the re-order threshold limit
+0.00 percent of Stock items below twice the re-order threshold limit
+0.00 percent of Stock items above twice the re-order threshold limit
+
+===========================MAINTENANCE DEPARTMENT========================
+100.00 percent of Stock items below the re-order threshold limit
+0.00 percent of Stock items below twice the re-order threshold limit
+0.00 percent of Stock items above twice the re-order threshold limit
+
